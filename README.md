@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khaled Ahmed Elsayed</h1>
 <h3 align="center">A passionate Mobile developer</h3>
 
-- 🔭 I’m recently worked on [Qawafel Apps on playstore](https://play.google.com/store/apps/developer?id=Qawafel)
+- 🔭 Currently working on [Qawafel Apps on playstore](https://play.google.com/store/apps/developer?id=Qawafel)
 
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/khaled-ahmed-elsayed-a198b010a)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/khaled-ahmed-elsayed)
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1nAxV2a8A2jLLEHAJPAK-mfIyNv0hQvwp/view?usp=drive_link)
   
